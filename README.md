@@ -8,4 +8,5 @@
 - 💡 Core Values management (Add, Edit, Delete)
 - 🖼️ Image-based product and slider display
 - 🔗 Clean routing using Laravel MVC architecture
-- 🗂️ Database migrations and seeders included
+- 🗂️ Database migrations and seeders included..
+- 
